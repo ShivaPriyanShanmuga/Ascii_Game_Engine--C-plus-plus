@@ -14,9 +14,10 @@ These examples serve as testbeds for the engine’s core features and design.
    ```bash
    make
 3. Execute either of the following binaries:
-   ```bash
+   * ```bash
    ./space_invaders
   or
-   ```bash
+   * ```bash
    ./flappy
+     
 
