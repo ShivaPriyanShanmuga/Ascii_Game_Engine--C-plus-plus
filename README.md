@@ -16,7 +16,7 @@ These examples serve as testbeds for the engine’s core features and design.
 3. Execute either of the following binaries:
    ```bash
    ./space_invaders
-or
+  or
    ```bash
    ./flappy
 
